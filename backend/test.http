@@ -1,0 +1,9 @@
+POST http://localhost:3200/app/notes
+Content-Type: application/json
+
+{
+    "fullName":"Bablii",
+    "username":"Armaaan Amaan",
+    "email":"amn3456234@mail.com",
+    "password":"amn2345aman"
+}
